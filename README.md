@@ -22,7 +22,6 @@ Assurez-vous d'avoir les éléments suivants installés sur votre système avant
 3. Installez les bibliothèques requises en utilisant `pip`. Nous vous recommandons d'utiliser un environnement virtuel pour isoler les dépendances du projet(Si vous êtes sous windows, il faudra créer un environnement virtuel sous windows, et non WSL car la webcam ne fontion pas sur WSL).
 
 
-   Ensuite, installez les bibliothèques depuis le fichier `requirements.txt` :
 
    ```bash
    pip install -r requirements.txt
